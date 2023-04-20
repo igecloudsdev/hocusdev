@@ -15,3 +15,7 @@ hocus.yml.schema.json
 .clinic
 agent-build
 prisma/tmp*.prisma
+buildkite-obd-write-layer/
+hocus-poc-registry/
+overlaybd-buildkite.config.v1.json
+poc-dir-export/
